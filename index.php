@@ -1,7 +1,5 @@
 <?php
 
-$this->trad('Mon texte en francais');
-
 require 'inc/config.php';
 
 $categorieList=array();
